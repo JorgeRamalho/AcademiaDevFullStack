@@ -1,6 +1,5 @@
 node_modules/
 dist-client/
-assets/
 server/data/*.db
 server/data/*.db-*
 test-results/
