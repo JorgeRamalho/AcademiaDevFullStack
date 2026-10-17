@@ -1,35 +1,16 @@
-# Academia DEVFullStack — portal de estudos Full Stack
+📌##AcademiaDevFullStack - Front End e Back End Ltda
 
-Portal para estudar do iniciante ao avançado, unindo interface, API e banco. Stack: **React + TypeScript**, **Node.js (Express)** e **SQLite**.
+🌐 ## Site Link do projeto online: https://academiadevfullstack.vercel.app/
 
-## Início rápido
+📂 ## Repositório: https://github.com//JorgeRamalho/AcademiaDevFullStack
 
-```bash
-npm install
-npx playwright install chromium
-npm run dev
-```
+💻 ## Tecnologias
 
-- Interface: http://127.0.0.1:5173 (Vite usa `index.vite.html` em desenvolvimento)
-- API: http://127.0.0.1:4000/api/health
+HTML CSS JavaScript React TypeScript Node.js 📲 ## Funcionalidades
 
-### Abrir com Live Server (VS Code)
+Fotos e Imagens Vídeos Layout Estilo do Site
 
-O `index.html` na raiz é a versão pronta para o Live Server (HTML + JS já compilados).
+📠 ## Como executar git clone ... npm install npm run dev
 
-1. Gere ou atualize o site: `npm run build:site`
-2. Em outro terminal, suba a API: `npm run start:server`
-3. Clique em **Go Live** no `index.html` (porta padrão 5500)
+💿 ## Autor 📄Seu nome: Jorge R. Barbosa 💼 LinkedIn: https://www.linkedin.com/in/jorge-r-barbosa-aabb0417b/ 👾 GitHub: https://github.com/JorgeRamalho ☎️ Contato: 41 99143-4153
 
-A interface chama a API em `http://127.0.0.1:4000`. Sem a API rodando, cadastro e exercícios não carregam dados.
-
-## Qualidade
-
-```bash
-npm run typecheck
-npm run test:e2e
-```
-
-## Estrutura do projeto
-
-A organização de pastas, inventário de arquivos e convenções estão em **[docs/ORGANIZACAO.md](docs/ORGANIZACAO.md)**.
