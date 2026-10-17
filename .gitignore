@@ -1,0 +1,11 @@
+node_modules/
+dist-client/
+assets/
+server/data/*.db
+server/data/*.db-*
+test-results/
+playwright-report/
+blob-report/
+.playwright/
+.env
+*.log

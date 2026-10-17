@@ -1,0 +1,14 @@
+{
+  "liveServer.settings.root": "/",
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.openPreview": true,
+  "liveServer.settings.ignoreFiles": [
+    ".vscode/**",
+    "**/node_modules/**",
+    "**/server/**",
+    "**/e2e/**",
+    "**/dist-client/**",
+    "**/test-results/**",
+    "**/playwright-report/**"
+  ]
+}
